@@ -1,4 +1,4 @@
-## Matplotlib:
+# Matplotlib:
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. It is widely used for plotting data and offers great flexibility and control over the appearance of plots. Matplotlib can produce a variety of plots such as line plots, scatter plots, histograms, bar charts, and more.
 - **Purpose**: General-purpose plotting library.
 - **Capabilities**: Provides a wide range of plot types, including line plots, scatter plots, bar charts, histograms, and more.
@@ -7,7 +7,7 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 - **Visual Style**: Default visual style is basic; enhancing aesthetics usually involves additional customization.
 
 - Operations in matplotlib
-  # Matplotlib Overview
+  ## Matplotlib Overview
 
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Below is an overview of the various operations you can perform using Matplotlib to create and customize plots.
 
@@ -43,7 +43,7 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 
 
 
-## Seaborn:
+# Seaborn:
 Seaborn is a Python data visualization library built on top of Matplotlib. It is designed to provide a high-level interface for drawing attractive and informative statistical graphics. Seaborn works seamlessly with pandas data structures and simplifies the process of creating complex visualizations with just a few lines of code. 
 - **Purpose**: Statistical data visualization library built on top of Matplotlib.
 - **Capabilities**: Simplifies the creation of complex statistical plots such as heatmaps, violin plots, and pair plots.
@@ -52,7 +52,7 @@ Seaborn is a Python data visualization library built on top of Matplotlib. It is
 - **Integration**: Works seamlessly with Pandas DataFrames for easy plotting of data.
 
 - Operations performed in seaborn
-# Seaborn Overview
+## Seaborn Overview
 
 Seaborn is a Python library built on top of Matplotlib that provides a high-level interface for creating attractive and informative statistical graphics. Below is an overview of the various operations you can perform using Seaborn to visualize data effectively.
 
